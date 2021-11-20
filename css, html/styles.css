@@ -1,0 +1,26 @@
+body{ 
+    background-color: rgb(197, 159, 159);
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+h1{ 
+    color: blue ;
+} 
+h2{
+    color:green;
+}
+#html-anatomy-heading{
+    color: crimson;
+}
+.underline{
+    text-decoration: underline;
+}
+#intro-ps{
+font-style: italic;
+font-size: 10em;
+}
+.bold{
+    font-weight: bold;
+    font-size: medium;
+}
